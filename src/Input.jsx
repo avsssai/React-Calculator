@@ -1,7 +1,7 @@
 import React from 'react';
-import './styles.css';
 
 export default class Input extends React.Component {
+    
     render(){
         return(
             <div className="input-field">
